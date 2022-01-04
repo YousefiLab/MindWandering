@@ -1,0 +1,28 @@
+{
+    "questions": [
+        {
+            "question": "Are you ready to begin?",
+            "choice": "Yes"
+        },
+        {
+            "question": "After how many hours the pill lost its effect?",
+            "choice": "2 hours"
+        },
+        {
+            "question": "Did you mind wander reading the essay?",
+            "choice": "Yes"
+        },
+        {
+            "question": "Approximately, how many times did you mind wander?",
+            "choice": "More than 5 times"
+        },
+        {
+            "question": "Was the essay too hard to understand?",
+            "choice": "Yes"
+        },
+        {
+            "question": "Did you skip some parts of the text?",
+            "choice": "Yes"
+        }
+    ]
+}
